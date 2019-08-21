@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">View Headset</string>
+    <string name="name">FanTech HEADSET GAMING HG15 CAPTAIN 7.1</string>
+    <string name="harga">Rp 379.000</string>
+    <string name="stok">Stok</string>
+    <string name="tersedia">Tersedia = 100pcs</string>
+    <string name="spesifikasi">Spesifikasi</string>
+    <string name="chanel">True 7.1 (SSS Chipset)</string>
+    <string name="led"> Running RGB</string>
+    <string name="plug">USB Plug </string>
+    <string name="driver">50 mm</string>
+    <string name="cable"> 2.5m Plastic cable</string>
+    <string name="size">215*190*110 mm</string>
+    <string name="range">20-20K Hz</string>
+    <string name="sensitif">95+/-3dB</string>
+    <string name="impedance">32+/-15%</string>
+    <string name="directivity"> Omni directial</string>
+</resources>
